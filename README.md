@@ -3,7 +3,7 @@
 
 其中提供了:
 
-- 本文算法MU-Sketch的[P4代码实现](https://github.com/aaaAlexanderaaa/MU-Sketch/tree/main/mu-Sketch))
+- 本文算法MU-Sketch的[P4代码实现](https://github.com/aaaAlexanderaaa/MU-Sketch/tree/main/mu-Sketch)
 
 - 参考算法[MV-Sketch](https://github.com/Grace-TL/MV-Sketch)的[P4代码实现](https://github.com/aaaAlexanderaaa/MU-Sketch/tree/main/mv-Sketch)
 
